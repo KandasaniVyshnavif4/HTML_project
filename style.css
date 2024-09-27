@@ -1,0 +1,24 @@
+*
+{
+    margin : 0;
+    padding : 0;
+}
+nav{
+  
+    display :flex;
+    justify-content: center;
+    
+    
+}
+ol{
+    text-align: inherit;
+}
+.container
+{
+    background-color: white;
+    width: 60vw;
+    padding: 1cm;
+    margin: auto;
+}
+
+
